@@ -1,0 +1,6 @@
+I am writing into this file via the python script!
+Python is super cool
+We all should learn it
+
+Appending:
+Python is an Object Oriented Language
