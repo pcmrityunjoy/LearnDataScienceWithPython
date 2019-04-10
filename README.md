@@ -12,4 +12,10 @@ Topics Covered:
 4. Files and Dataframes <a href='/4.%20Py-WorkingWithFilesAndDataframes.ipynb'>Here </a>
 5. Working with Numpy library <a href='/5.%20Numpy.ipynb'>Here </a>
 
-Thanks :)
+
+<h2> Requirements: </h2>
+1. Jupiter Notebook(not necessary - code can be executed on any python supported IDE)</br>
+2. Pandas and Numpy library <br>
+run command - <code>pip install pandas </code> and  <code>pip install numpy</code>
+</br></br></br>
+<center>Thanks :) </center>
